@@ -15,12 +15,12 @@ Bar chart: Average price by rating
 
 Pie chart: In Stock vs Out of Stock proportion
 
-Table: All books with conditional formatting (high price > $66 red, low ratings blue)
+Table: All books with conditional formatting (high price > $60 red, low ratings blue)
 Clustered bar: Price category analysis
 Decomposition Tree: Availability → Rating → Price Category
 Scatter Plot: Price vs Rating distribution
 
-]]Interactive Elements
+Interactive Elements
 Slicers: Rating (1-5), Stock Availability, Price Range
 
 Drill-through from category to individual books
