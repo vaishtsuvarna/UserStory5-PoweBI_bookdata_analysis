@@ -74,4 +74,6 @@ Requirements:
 Power BI Desktop
 books_data.csv (from scraper.py)
 
-All User Story 5 acceptance criteria implemented and tested.
+Results
+- All 6 test cases passed
+-All User Story 5 acceptance criteria implemented and tested.
