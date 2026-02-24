@@ -30,9 +30,9 @@ Data Processing
 GBP to USD conversion (1.32 exchange rate)
 
 Price categories:
-Budget: under $26.40
-Standard: $26.40-$66
-Premium: above $66
+Budget: under $30
+Standard: $30-$60
+Premium: above $60
 
 KPI Cards
 Total Books count
