@@ -5,9 +5,11 @@
 ![Dataset](https://img.shields.io/badge/Data-999%20Books-orange)
 ![Tool](https://img.shields.io/badge/Tool-PowerBI-yellow)
 
-Power BI dashboard visualizing scraped book data from BooksToScrape.com. Analyzes pricing trends, ratings distribution, and stock availability across 999 books.
+🌟 Overview
+Interactive Power BI dashboard built on scraped book data to analyze **price, ratings, and availability**.  
+Supports **dynamic filtering, drill-down, and KPI insights**.
 
-Features Implemented:
+⚙️Features Implemented:
 Data Integration
 Imported books_data.csv (999 books)
 
