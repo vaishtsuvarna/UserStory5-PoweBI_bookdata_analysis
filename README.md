@@ -1,4 +1,4 @@
-Book Data Analysis Dashboard - Power BI
+#Book Data Analysis Dashboard - Power BI
 Power BI dashboard visualizing scraped book data from BooksToScrape.com. Analyzes pricing trends, ratings distribution, and stock availability across 999 books.
 
 Features Implemented:
