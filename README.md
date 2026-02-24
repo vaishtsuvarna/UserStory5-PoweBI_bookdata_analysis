@@ -74,11 +74,4 @@ Requirements:
 Power BI Desktop
 books_data.csv (from scraper.py)
 
-Submission Files":
-Book_Analysis_Dashboard.pbix
-
-books_data.csv (999 records)
-
-README.md
-
 All User Story 5 acceptance criteria implemented and tested.
